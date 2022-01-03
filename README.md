@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**pondamelia/pondamelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Amelia, and I am currently a computer programming student residing in Los Angeles, CA.
 
 - 🔭 I’m currently working on creating a portfolio.
 - 🌱 I’m currently learning how to contribute to open source projects.
